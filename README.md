@@ -16,7 +16,7 @@ Unified interfaces designed to support the development and evaluation of neural 
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32315">Paper (AAAI'25 [Oral])</a> & 
       <a href="https://arxiv.org/abs/2409.00953">Paper (arXiv)</a>
     </td>
-    <td> <a href="model-family/PNVC">Code</a https://github.com/ge1-gao/PNVC></td>
+    <td><a href="https://github.com/ge1-gao/PNVC">Code</a></td>
     <td><a href="TBD">Checkpoints</a></td>
   </tr>
   <tr>
