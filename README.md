@@ -25,7 +25,7 @@ Unified interfaces designed to support the development and evaluation of neural 
       <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_GIViC_Generative_Implicit_Video_Compression_ICCV_2025_paper.pdf">Paper (ICCV'25)</a> & 
       <a href="https://arxiv.org/abs/2503.19604">Paper (arXiv)</a>
     </td>
-    <td><a href="model-family/GIViC">Code</a https://ge1-gao.github.io/GIViC></td>
+    <td><a href="https://github.com/ge1-gao/GIViC">Code</a></td>
     <td><a href="TBD">Checkpoints</a></td>
   </tr>
 </table>
